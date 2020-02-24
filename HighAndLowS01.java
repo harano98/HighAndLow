@@ -31,7 +31,7 @@ public class HighAndLowS01 {
 			System.out.println("*****    *****");
 
 
-			System.out.println(" High or low ?(h/l) >");
+			System.out.println(" High or Low ?(h/l) >");
 			select = sc.nextLine();
 
 			if(select.equals("h")){
